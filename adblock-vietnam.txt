@@ -256,9 +256,11 @@ _quangcao.
 ||yeuhentai.com/popup/
 ||yo88.net/ads/
 ||zing.vn^*/ZingBanner/
+||vietnamnetad.vn^
 !
 ! ---------- General blocking rules ----------
 !
+||vietnamnetad.vn^
 ||60s.com.vn/script/pop_
 ||9hotgirls.info^*/ads_300x180.gif
 ||ad.zing.vn^
