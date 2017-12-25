@@ -10,6 +10,7 @@
 !
 ! ---------- Generic Blocking Rules ----------
 !
+.vietnamnetad.vn/
 .vn/ads.
 .vn/ads/
 .vn/ads_
@@ -256,11 +257,9 @@ _quangcao.
 ||yeuhentai.com/popup/
 ||yo88.net/ads/
 ||zing.vn^*/ZingBanner/
-||vietnamnetad.vn^
 !
 ! ---------- General blocking rules ----------
 !
-||vietnamnetad.vn^
 ||60s.com.vn/script/pop_
 ||9hotgirls.info^*/ads_300x180.gif
 ||ad.zing.vn^
@@ -289,6 +288,7 @@ _quangcao.
 ||so1vnn.com/ads/
 ||topphimhay.com/img/banner/
 ||upanh.com^*/zinken.gif
+||vnexpress.net/library/common/rs.js
 ||vnsharing.net^*/pop*.js
 ||vuvu88.info^*_banner.gif
 !
@@ -687,6 +687,10 @@ vn.yahoo.com###shd-promo
 vn88.com##table[height="100"]
 vn88.com##td[width="490"][align="left"]
 vn88.com##td[width="500"][align="right"]
+vnexpress.net###ARTICLE_BANNER
+vnexpress.net###LargeLogo1
+vnexpress.net###LargeLogo2
+vnexpress.net##.adv-header
 vnmon.com##div[style="margin-left: 0px; margin-top: 5px; margin-bottom: 5px; background-color: #009900; height: 90px; width: 728px; border: 1px dashed #FF6600; text-align: center; font-size: 13px; color: rgb(255, 255, 255);"]
 vnmon.com##div[style="margin-left: 0px; margin-top: 5px; margin-bottom: 5px; background-color: rgb(204, 204, 204); height: 90px; width: 728px; border: 1px dashed rgb(0, 153, 51); text-align: center; font-size: 14px; color: rgb(255, 0, 0);"]
 vnmon.com##div[style="margin-left: 0px; margin-top: 5px; margin-bottom: 5px; background-color:#CCC; height: 180px; width: 180px; border: 1px dashed #093; text-align: center; font-size: 14px; color:#F00;"]
