@@ -256,7 +256,7 @@ _quangcao.
 ||yeuhentai.com/code-js/$script
 ||yeuhentai.com/popup/
 ||yo88.net/ads/
-||zing.vn/
+||news.zing.vn^
 !
 ! ---------- General blocking rules ----------
 !
